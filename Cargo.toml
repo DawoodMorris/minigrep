@@ -1,0 +1,8 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+edition = "2024"
+description = "A mini Rust version of the grep Linux command"
+license = "MIT OR Apache-2.0"
+
+[dependencies]

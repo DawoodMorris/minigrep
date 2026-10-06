@@ -1,0 +1,1 @@
+# A small program in Rust, a tool that works like `grep` on Linux.
